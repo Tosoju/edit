@@ -847,7 +847,6 @@
 
 * [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW / 1080p
 * [Asia Media Blog](https://asiamediablog.com/) - Video / Audio / Magazines / NSFW / 1080p
-* [jpddl](https://jpddl.com/) - Manga / Raw Anime / Music / Drama / 1080p
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [Doujin Cafe (Discord)](https://discord.gg/doujincafe) - Music / MP3 / FLAC
